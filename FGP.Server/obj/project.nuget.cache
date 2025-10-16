@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SU8wRY2RQmw=",
+  "dgSpecHash": "qK29b9rdQ3I=",
   "success": true,
   "projectFilePath": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\FGP.Server.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\klu\\.nuget\\packages\\libsodium\\1.0.20.1\\libsodium.1.0.20.1.nupkg.sha512",
     "C:\\Users\\klu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512",
-    "C:\\Users\\klu\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\klu\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\klu\\.nuget\\packages\\nsec.cryptography\\25.4.0\\nsec.cryptography.25.4.0.nupkg.sha512"
   ],
   "logs": []
 }

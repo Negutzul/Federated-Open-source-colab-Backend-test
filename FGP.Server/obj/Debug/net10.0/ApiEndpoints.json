@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FGP.Server.Controllers.DiscoveryController",
+    "Method": "Get",
+    "RelativePath": ".well-known/fgp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
