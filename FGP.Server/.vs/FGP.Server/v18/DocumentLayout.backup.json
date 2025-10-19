@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B0318A2-BF4B-3603-E49F-89184B7A6773}|FGP.Server.csproj|c:\\users\\klu\\desktop\\federated open source colab backend test\\fgp.server\\controllers\\inboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0318A2-BF4B-3603-E49F-89184B7A6773}|FGP.Server.csproj|solutionrelative:controllers\\inboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0318A2-BF4B-3603-E49F-89184B7A6773}|FGP.Server.csproj|c:\\users\\klu\\desktop\\federated open source colab backend test\\fgp.server\\protocol\\fgpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0318A2-BF4B-3603-E49F-89184B7A6773}|FGP.Server.csproj|solutionrelative:protocol\\fgpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B0318A2-BF4B-3603-E49F-89184B7A6773}|FGP.Server.csproj|c:\\users\\klu\\desktop\\federated open source colab backend test\\fgp.server\\controllers\\discoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0318A2-BF4B-3603-E49F-89184B7A6773}|FGP.Server.csproj|solutionrelative:controllers\\discoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "InboxController.cs",
+              "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Controllers\\InboxController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InboxController.cs",
+              "ToolTip": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Controllers\\InboxController.cs",
+              "RelativeToolTip": "Controllers\\InboxController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:37:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FgpMessage.cs",
+              "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Protocol\\FgpMessage.cs",
+              "RelativeDocumentMoniker": "Protocol\\FgpMessage.cs",
+              "ToolTip": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Protocol\\FgpMessage.cs",
+              "RelativeToolTip": "Protocol\\FgpMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:36:39.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -54,24 +88,22 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T14:11:14.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T14:11:14.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FGP.Server",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\FGP.Server.csproj",
               "RelativeDocumentMoniker": "FGP.Server.csproj",
               "ToolTip": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\FGP.Server.csproj",
               "RelativeToolTip": "FGP.Server.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T14:11:12.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T14:11:12.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -79,25 +111,24 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T14:06:59.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T14:06:59.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DiscoveryController.cs",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Controllers\\DiscoveryController.cs",
               "RelativeDocumentMoniker": "Controllers\\DiscoveryController.cs",
               "ToolTip": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Controllers\\DiscoveryController.cs",
               "RelativeToolTip": "Controllers\\DiscoveryController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T14:05:19.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FgpDiscovery.cs",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Protocol\\FgpDiscovery.cs",
               "RelativeDocumentMoniker": "Protocol\\FgpDiscovery.cs",
@@ -105,12 +136,11 @@
               "RelativeToolTip": "Protocol\\FgpDiscovery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:46:40.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T13:46:40.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -118,12 +148,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:23:42.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T13:23:42.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "KeyGenerator.cs",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\Services\\KeyGenerator.cs",
               "RelativeDocumentMoniker": "Services\\KeyGenerator.cs",
@@ -131,21 +160,19 @@
               "RelativeToolTip": "Services\\KeyGenerator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:21:55.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T13:21:55.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FGP.Server",
+              "DocumentIndex": 9,
+              "Title": "FGP.Server.csproj",
               "DocumentMoniker": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\FGP.Server.csproj",
               "RelativeDocumentMoniker": "FGP.Server.csproj",
               "ToolTip": "C:\\Users\\klu\\Desktop\\Federated Open source colab Backend test\\FGP.Server\\FGP.Server.csproj",
               "RelativeToolTip": "FGP.Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T13:35:12.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T13:35:12.676Z"
             }
           ]
         }

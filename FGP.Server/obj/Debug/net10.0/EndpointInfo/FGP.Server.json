@@ -24,11 +24,84 @@
           }
         }
       }
+    },
+    "/fgp/inbox": {
+      "post": {
+        "tags": [
+          "Inbox"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FgpMessage"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FgpMessage"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FgpMessage"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "FgpMessage": {
+        "required": [
+          "protocol",
+          "type",
+          "id",
+          "sentAt",
+          "from",
+          "to",
+          "payload"
+        ],
+        "type": "object",
+        "properties": {
+          "protocol": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "sentAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "from": {
+            "type": "string"
+          },
+          "to": {
+            "type": "string"
+          },
+          "payload": { }
+        }
+      }
     }
   },
   "tags": [
     {
       "name": "Discovery"
+    },
+    {
+      "name": "Inbox"
     }
   ]
 }
